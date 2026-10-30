@@ -19,3 +19,4 @@ SELECT
 FROM ventes
 GROUP BY ventes.c5
 ORDER BY chiffre_affaires DESC;
+
